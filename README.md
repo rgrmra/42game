@@ -1,8 +1,8 @@
 # 42 Game
 
-Como lidar com o erro 500 que occore no Game da 42 São Paulo utilizando o Google Chrome.
+Como lidar com o erro 500 que ocorre no Game da 42 São Paulo quando utiliza-se o Google Chrome.
 
-![a](./srcs/animation.gif)
+![Animação](./srcs/animation.gif)
 
 ## Passo a Passo
 
